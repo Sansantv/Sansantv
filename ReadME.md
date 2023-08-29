@@ -3,7 +3,7 @@
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Home Lab Projects:</h2>
 
 - <b>SIEM Projects</b>
-  - [Mircrosoft Azure Sentinal](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Mircrosoft Azure Sentinal](https://github.com/Sansantv/Microsoft-Sentinel-Lab.git)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
