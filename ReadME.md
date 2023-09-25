@@ -10,7 +10,7 @@
 <h2> 🤳 Connect with me:</h2>
 - <b> 📫 How to reach me:<b> 
   
-- Email: snorey77@gmai.com
+- Email: snorey77@gmail.com
 
   [<img align="left" alt=" Samuel Norey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
