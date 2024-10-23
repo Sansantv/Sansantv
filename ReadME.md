@@ -7,6 +7,8 @@
   - [Mircrosoft Azure Sentinal](https://github.com/Sansantv/Microsoft-Sentinel-Lab.git)
 - <b>Windows Server Virtual Machine</b> 
   - [Domain Controller and Internal Network](https://github.com/Sansantv/Basic-Home-WS-Lab.git)
+- <b>Atomic Red Team Simulations</b> 
+  - [Attack T1003.001](https://medium.com/@snorey77/exploring-my-cybersecurity-homelab-with-atomic-red-team-part-1-c65753b85a2b)
 <!-- <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 -->
